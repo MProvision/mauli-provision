@@ -1283,7 +1283,7 @@ function Header({
           <div className="logo-icon">म</div>
 
           <div>
-            <div className="logo-name">Mauli Provision</div>
+            <div className="logo-name">मauli Provision</div>
 
             <div className="logo-sub">{t.storeSubtitle}</div>
           </div>
